@@ -1,0 +1,6 @@
+{
+  "name": "Trajectory Blaster",
+  "description": "An interactive physics projectile simulation game with 3D-shaded graphics, custom trajectories, coins, and educational challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
